@@ -6,7 +6,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-100">
       <Navbar />
       <main className="text-center mt-10">
-        <h1 className="text-4xl font-bold text-blue-700 mb-5">
+        <h1 className="text-4xl font-bold text-purple-700 mb-5">
           Welcome to My AI Assignment
         </h1>
         <Image

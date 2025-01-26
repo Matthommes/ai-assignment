@@ -5,7 +5,7 @@ export default function Assignment() {
     <div className="min-h-screen bg-gray-100">
       <Navbar />
       <main className="mt-10 p-5">
-        <h1 className="text-3xl font-bold text-blue-700 mb-4 text-center">
+        <h1 className="text-3xl font-bold text-purple-700 mb-4 text-center">
           AI Assignment
         </h1>
         <div className="space-y-6">

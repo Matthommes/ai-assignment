@@ -5,7 +5,7 @@ export default function About() {
     <div className="min-h-screen bg-gray-100">
       <Navbar />
       <main className="flex flex-col items-center justify-center mt-10">
-        <h1 className="text-3xl font-bold text-blue-700 mb-4">About Me</h1>
+        <h1 className="text-3xl font-bold text-purple-700 mb-4">About Me</h1>
         <div className="bg-white shadow-lg rounded-lg p-6 w-80 text-center">
           <img
             src="/emmy.jpg"
