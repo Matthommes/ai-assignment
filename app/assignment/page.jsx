@@ -1,3 +1,4 @@
+import DebuggingChallenges from "../component/debugging";
 import Navbar from "../component/navbar";
 
 export default function Assignment() {
@@ -81,6 +82,12 @@ export default function Assignment() {
             </p>
           </section>
         </div>
+
+        {/* Assignment 2 - Debugging Challenges */}
+        <h1 className="text-3xl font-bold text-purple-700 mb-4 text-center mt-10">
+          Assignment 2: Debugging Challenges
+        </h1>
+        <DebuggingChallenges />
       </main>
     </div>
   );
